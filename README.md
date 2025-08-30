@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ Drexel University | Minor in Mathematics | Concentrations : AI/ML and Algorithms/Theory
 
-📚 Machine Learning Foundations @ Cornell University  
+📚 Break Through Tech AI Fellow @ Cornell University | Machine Learning Foundations eCertificate
 
 💼 Data Science | 🧠 AI/ML | 💡 Creative Tech | 🤝 Social Impact
 
